@@ -46,6 +46,12 @@ La réalité virtuelle (RV) est un environnement généré par la technologie in
 
 Les systèmes de réalité virtuelle typiques se composent principalement d'un casque stéréoscopique qui fournit à l'utilisateur l'environnement virtuel visuel et auditif, et de contrôleurs qui permettent à l'utilisateur d'interagir avec des objets dans l'environnement virtuel. Sur cette diapositive, nous pouvons voir un ensemble de réalité virtuelle typique, un HTC Vive, et un utilisateur qui l'utilise.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Reality_check_ESA384313.jpg" alt="VR-1" width="400" > <img src="https://virtual-reality.co.za/wp-content/uploads/2018/03/htc-vive-virtual-reality-headset.jpg" alt="VR-1" width="400" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Reality_check_ESA384313.jpg" alt="VR-1" width="400" > <img src="https://virtual-reality.co.za/wp-content/uploads/2018/03/htc-vive-virtual-reality-headset.jpg" alt="htc-vive" width="400" >
+
+### Le contexte historique
+
+L'origine de la réalité virtuelle remonte à la Seconde Guerre mondiale. La marine américaine a contacté le MIT pour la création éventuelle d'un simulateur de vol adapté à la formation des pilotes de bombardiers, un projet appelé Whirlwind (1951). Cependant, le premier système de réalité virtuelle similaire à celui que nous connaissons aujourd'hui a été conçu par Morton Heilig en 1962, suivi par The Sword of Damocles d'Ivan Sutherland en 1968. Pendant 20 ans, entre 1970 et 1990, cette technologie et son développement ont été principalement utilisés dans les domaines de la médecine, des simulateurs de vol, de l'automobile et de la formation militaire. Ce n'est que dans les années 1990 que la technologie a commencé à être développée dans un but commercial, avec des lancements notables comme les consoles Sega VR (1991) et Virtual Boy de Nintendo (1995). Entre 2000 et 2010, l'accent sur le développement de la réalité virtuelle a été perdu. La décennie 2010 a été celle où la plupart des investissements ont été réalisés dans le développement de la technologie d'un point de vue commercial, avec le lancement de dispositifs tels que Oculus Rift (2010), HTC Vive (2015), PlayStation VR (2014).
+
+
 
 
