@@ -54,4 +54,6 @@ L'origine de la réalité virtuelle remonte à la Seconde Guerre mondiale. La ma
 
 <img src="https://www.researchgate.net/publication/317640892/figure/fig1/AS:506305011621888@1497723929495/Sketch-on-the-left-and-picture-on-the-right-of-the-Sensorama-Simulator-patented-by-M.png" alt="sensorama" width="400" > <img src="https://www.researchgate.net/publication/326444949/figure/fig1/AS:649382688993284@1531836306775/The-Sword-of-Damocles.png" alt="damocles" width="450" >
 
+## Applications en dehors du contexte des jeux
 
+_A lot of people have no idea that it’s been used (VR) for things other than games and entertainment._ - Thong Nguyen, TEDxMinneapolis 2018
