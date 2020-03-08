@@ -56,4 +56,4 @@ L'origine de la réalité virtuelle remonte à la Seconde Guerre mondiale. La ma
 
 ## Applications en dehors du contexte des jeux
 
-_A lot of people have no idea that it’s been used (VR) for things other than games and entertainment._ - Thong Nguyen, TEDxMinneapolis 2018
+_A lot of people have no idea that it’s been used (VR) for things other than games and entertainment._ - [Thong Nguyen, TEDxMinneapolis 2018](https://youtu.be/eFHj8OVC1_s)
