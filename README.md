@@ -1,41 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/vrscout/doc-synthese/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vrscout/doc-synthese/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
 # La réalité virtuelle pour le grand public sera-t-elle limitée aux jeux ?
 
 ## Introduction
@@ -84,5 +46,5 @@ Dans [cette étude](https://obj.umiacs.umd.edu/virtual_reality_study/10.1007-s10
 
 L'immersion dans des environnements virtuels réalistes peut être très utile pour faire face à des problèmes psychologiques tels que [l'anxiété, les phobies](https://sachscenter.com/virtual-reality-therapy-for-anxiety-disorders/), [le syndrome de stress post-traumatique](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6713125/)… par des techniques telles que [la thérapie d'exposition](https://www.defencetalk.com/virtual-reality-exposure-therapy-helps-resolve-ptsd-63433/) ou [l'auto-dialogue incarné (embodied self-dialogue)](https://www.nature.com/articles/s41598-019-46877-3). Sur l'image ci-dessous, on peut voir un soldat qui utilise un kit de réalité virtuelle pour se placer en situation de guerre afin de traiter le syndrome de stress post-traumatique. Ainsi, dans l'image ci-dessous, nous voyons comment un utilisateur prend part à une consultation de psychologie simulée. 
 
-<img src="./army-virtual-reality-pstd-696x521.jpg" alt="PTSD" width="300" > <img src="./maxresdefault.jpg" alt="self-dialogue" width="350" >
+<img src="./army-virtual-reality-pstd-696x521.jpg" alt="PTSD" width="300" > <img src="./maxresdefault.jpg" alt="self-dialogue" width="400" >
 
