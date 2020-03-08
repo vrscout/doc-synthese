@@ -66,7 +66,7 @@ Le caractère fortement immersif de la réalité virtuelle offre un potentiel in
 
 <a href="https://youtu.be/mURBMcL_yJk"> <img src="https://66.media.tumblr.com/019130cc33a6ebf0be098133bdded8f8/tumblr_p2ww4xiB1B1qav3uso3_540.gifv" alt="sensorama" width="400" > <a href="https://youtu.be/ahb4OmBz7QQ"> <img src="./QnqMN9.gif" alt="sensorama" width="400" >
   
-  ### Les sports
+### Les sports
   
 Un autre domaine où la réalité virtuelle est déjà utilisée est celui de l'entraînement sportif. Le fait de disposer d'un environnement virtuel réaliste donne à l'athlète la possibilité de s'entraîner de manière répétée dans des situations importantes au sein du sport. Plus précisément, il permettrait aux athlètes de s'entraîner à l'aspect technique, comme par exemple en ski, où un simulateur offre la possibilité de pratiquer certains circuits pendant toute l’année ; à l'aspect tactique, en recréant des situations où la stratégie joue un rôle important, comme au football ou au basket-ball ; et à l'aspect psychologique, en permettant l’amélioration de la prise de décisions, la connaissance et la force mentale. Les grandes ligues sportives telles que la NFL et la NBA incluent déjà la réalité virtuelle dans leurs plans d'entraînement. Pour plus d'informations, [visitez ce lien](https://hedgehoglab.com/blog/vr-sport-training).
   
