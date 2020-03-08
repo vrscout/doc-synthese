@@ -57,3 +57,11 @@ L'origine de la réalité virtuelle remonte à la Seconde Guerre mondiale. La ma
 ## Applications en dehors du contexte des jeux
 
 _A lot of people have no idea that it’s been used (VR) for things other than games and entertainment._ - [Thong Nguyen, TEDxMinneapolis 2018](https://youtu.be/eFHj8OVC1_s)
+
+Sans aucun doute, l'application la plus connue de la réalité virtuelle est celle liée aux jeux vidéo. Cependant, l'éventail des utilisations potentielles de cette technologie est beaucoup plus large, et elle peut être appliquée à des domaines tels que l'art, les sports, la formation, la thérapie… 
+
+### L'art immersif
+
+Le caractère fortement immersif de la réalité virtuelle offre un potentiel intéressant pour la création artistique et l'observation. D'un point de vue créatif, l'environnement virtuel facilite grandement la production de peintures tridimensionnelles, par le biais de la "sculpture". La possibilité d'avoir n'importe quel point de vue, ainsi que la possibilité d'interagir avec l'œuvre en question, sont des caractéristiques très attrayantes pour les artistes. Dans le GIF ci-dessus, on peut voir une artiste connue pour ses œuvres créées en réalité virtuelle. Elle utilise des applications de modélisation 3D spécialement conçues à cet effet, comme Tilt Brush ou Google Blocks. La réalité virtuelle offre également un grand potentiel pour la création de productions audiovisuelles, telles que des animations et des films. Dans le GIF ci-dessous, nous pouvons voir un peu du "making of" de "The Remedy", un court-métrage d'animation réalisé avec le logiciel d'animation Oculus Quill. En ce sens, le spectateur pourra non seulement observer l'œuvre, mais aussi la vivre. Afin de promouvoir l'art dans la réalité virtuelle, certaines galeries ont été créées : The Festival of the Impossible, Acute Art.
+
+
