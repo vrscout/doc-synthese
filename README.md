@@ -72,3 +72,6 @@ Un autre domaine où la réalité virtuelle est déjà utilisée est celui de l'
   
 <img src="./jZV1Kz.gif" alt="ski-vr" width="400" > <img src="./919637710.jpg.0.jpg" alt="basket-vr" width="350" >
 
+### La formation
+
+C'est dans le domaine de la formation que la technologie s'est le [plus développée](https://builtin.com/edtech/virtual-reality-in-education), à l'exception des jeux vidéo. Grâce aux expériences immersives et interactives proposées par les simulateurs, certaines compétences peuvent être acquises indépendamment de la distance qui sépare l'élève de son environnement ou des erreurs qu'il commet, notamment dans les tâches à haute responsabilité. Ainsi, l'enseignement à distance est beaucoup plus efficace. En particulier, grâce à l'utilisation de programmes tels que rumii, Discovery Education, OSSO VR et Airbus VR Flight Trainer, il est possible de générer des environnements virtuels dans lesquels sont simulés des laboratoires, des visites sur le terrain, des opérations chirurgicales et le pilotage d'avions.
